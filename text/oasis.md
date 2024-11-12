@@ -2,7 +2,7 @@
 - Start Date: 2024-11-10
 - RFC PR: (leave this empty)
 - Hathor Issue: (leave this empty)
-- Author: Bulldozer <bulldozer@dozer.finance>
+- Authors: Bulldozer <bulldozer@dozer.finance> and Tothster <tothster@dozer.finance>
 
 # Summary
 
