@@ -309,9 +309,8 @@ Processes user withdrawals with:
 
 # Drawbacks
 
-1. Capital efficiency depends on Liquidity Pool Volume
-2. Initial focus on single token (hUSDT) limits broader ecosystem growth
-3. Protection mechanism may be expensive for Hathor Labs in extreme market conditions
+1. Initial focus on single token (hUSDT) limits broader ecosystem growth
+2. Protection mechanism may be expensive for Hathor Labs in extreme market conditions
 
 # Rationale and alternatives
 
@@ -326,7 +325,6 @@ Alternatives considered:
 
 1. Traditional dual-sided LP
    - Higher barrier to entry
-   - No IL protection needed
    - Less capital efficient
 
 2. Pure mining rewards
@@ -354,7 +352,7 @@ Project Oasis draws inspiration from Radix's Ignition program while adapting it 
 
 # Future possibilities
 
-1. Extension to other tokens beyond hUSDT
+1. Extension to other tokens beyond EVM Tokens
 2. Integration with future DeFi protocols
 3. Governance-controlled parameters
 4. Secondary market for locked positions
